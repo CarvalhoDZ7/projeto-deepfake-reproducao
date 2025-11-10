@@ -1,0 +1,11 @@
+# Ignorar o ambiente virtual
+.venv/
+
+# Ignorar os dados de vídeo originais (os 2GB)
+Celeb-DF/
+
+# Ignorar os frames extraídos
+frames_dataset_celbedf/
+
+# Ignorar caches do Python
+__pycache__/
